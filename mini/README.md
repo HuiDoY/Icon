@@ -1,5 +1,5 @@
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/头部.png)
+![示例](https://raw.githubusercontent.com/HuiDoY/Icon/main/mini/none/头部.png)
 
 ## mini项目
 
@@ -50,40 +50,40 @@
 
 ##### 图标索引，最上方为图标展示，下面第一行为对应机场的名称，第二行为文件名，请将使用方法中的name.png替换成相应文件的文件名
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/机场.png)
+![示例](https://raw.githubusercontent.com/HuiDoY/Icon/main/mini/none/机场.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.5-1.png)
+![示例](https://raw.githubusercontent.com/HuiDoY/Icon/main/mini/none/2.5-1.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.5-2.png)
+![示例](https://raw.githubusercontent.com/HuiDoY/Icon/main/mini/none/2.5-2.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.5-3.png)
+![示例](https://raw.githubusercontent.com/HuiDoY/Icon/main/mini/none/2.5-3.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.5-4.png)
+![示例](https://raw.githubusercontent.com/HuiDoY/Icon/main/mini/none/2.5-4.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.5-5.png)
+![示例](https://raw.githubusercontent.com/HuiDoY/Icon/main/mini/none/2.5-5.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/彩蛋.png)
+![示例](https://raw.githubusercontent.com/HuiDoY/Icon/main/mini/none/彩蛋.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.5-彩蛋.png)
+![示例](https://raw.githubusercontent.com/HuiDoY/Icon/main/mini/none/2.5-彩蛋.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/策略.png)
+![示例](https://raw.githubusercontent.com/HuiDoY/Icon/main/mini/none/策略.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/彩色.png)
+![示例](https://raw.githubusercontent.com/HuiDoY/Icon/main/mini/none/彩色.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/Task.png)
+![示例](https://raw.githubusercontent.com/HuiDoY/Icon/main/mini/none/Task.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-1.png)
+![示例](https://raw.githubusercontent.com/HuiDoY/Icon/main/mini/none/-1.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-2.png)
+![示例](https://raw.githubusercontent.com/HuiDoY/Icon/main/mini/none/none/-2.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-3.png)
+![示例](https://raw.githubusercontent.com/HuiDoY/Icon/main/mini/none/-3.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-4.png)
+![示例](https://raw.githubusercontent.com/HuiDoY/Icon/main/mini/none/-4.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-5.png)
+![示例](https://raw.githubusercontent.com/HuiDoY/Icon/main/mini/none/-5.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-6.png)
+![示例](https://raw.githubusercontent.com/HuiDoY/Icon/main/mini/none/-6.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-7.png)
+![示例](https://raw.githubusercontent.com/HuiDoY/Icon/main/mini/none/-7.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/yaofan.png)
+![示例](https://raw.githubusercontent.com/HuiDoY/Icon/main/mini/none/yaofan.png)
